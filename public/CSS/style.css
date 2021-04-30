@@ -1,0 +1,11 @@
+#menuWiki .card{
+    background: url('../imagenes/menu_peq.jpg'); 
+    background-size: 500px 600px;
+    background-repeat: no-repeat;
+    padding: 100px; 
+    margin: 10px; 
+    box-shadow: 2px 3px 3px #929b98; 
+    width: 500px;
+    height: 600px;
+}
+
